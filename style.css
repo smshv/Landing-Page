@@ -45,6 +45,13 @@ a{
     font-size: 12px;
     color: #E5E7EB;
 }
+.banner-button{
+    color: #E5E7EB;
+    background-color: #3882F6;
+    padding: 2px 12px;
+    border-radius: 3px;
+    border: 0px;
+}
 .header-top, .header-bottom{
     display: flex;
     justify-content: space-between;
